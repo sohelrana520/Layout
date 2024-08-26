@@ -1,0 +1,43 @@
+.header{
+    height: 100px;
+    background-color: orange;
+}
+.container{
+    border: 3px solid white;
+    overflow: hidden;
+}
+.blog{
+    float: left;
+    width: 50%;
+    height: 150px;
+    background-color: green;
+}
+.contact{
+    float: right;
+    width:50%;
+    height: 150px;
+    background-color: teal;
+}
+.footer{
+    /* clear: both; */
+    height: 100px;
+    background-color: blueviolet;
+}
+
+
+.item{
+    border: 5px solid red;
+    float: left;
+    width: 32%;
+    height: 100px;
+
+}
+.gre{
+    background-color: darkcyan;
+}
+.ora{
+    background-color: orange;  
+}
+.yel{
+    background-color: yellow;  
+}
